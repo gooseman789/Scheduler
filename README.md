@@ -1,6 +1,6 @@
 # Scheduler
 
-![Alt text](Assets/Screenshot (1).png)
+![Alt text](Screenshot%20(1).png)
 
 
 
